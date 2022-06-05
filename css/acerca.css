@@ -1,0 +1,24 @@
+.acercanos{
+    background-color: palevioletred;
+    border-radius: 13px;
+    height: 45px;
+    width: 100%;
+}
+.acercanos .h3 {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+    transition: .6s;
+
+}
+.acercanos .h3:hover {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    transition: .6s;
+}
+

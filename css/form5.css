@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(/images/back5.jpg);
+    
+}
+
+.Login{
+    width: 450px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.Login h4{
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.controles{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.Login p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    font-family: Calibri;
+}
+
+.Login a{
+    color: white;
+    text-decoration: none;
+}
+
+.Login a:hover{
+    color: lightblue;
+    text-decoration: underline;
+}
+
+.Login .boton{
+    width: 32.7%;
+    border: none;
+    transition: .2s;
+    background: #1f53c5;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+.Login .boton3{
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 19px;
+    font-size: 16px;
+    transition: .2s;
+    border: none;
+    background: #1f53c5;
+    padding: 12px;
+    color: white;
+}
+
+
+.Login .boton3:hover{
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 19px;
+    font-size: 16px;
+    transition: .2s;
+    border: none;
+    background: #ffffff;
+    padding: 12px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.Login .boton3 a:hover{
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 19px;
+    font-size: 16px;
+    transition: .2s;
+    border: none;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 12px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.Login .boton2{
+    width: 32.3%;
+    margin: 16px 0;
+    font-size: 16px;
+    transition: .2s;
+    border: none;
+    background: #1f53c5;
+    padding: 12px;
+    color: white;
+}
+
+.Login .boton:hover{
+    width: 32.7%;
+    transition: .2s;
+    background: #ffffff;
+    padding: 12px;
+    color: #000000;
+    margin: 16px 0;
+    border-color: #1f53c5;
+    text-align: center;
+    font-size: 16px;
+}
+.Login .boton2:hover{
+    width: 32.3%;
+    transition: .2s;
+
+    background: #ffffff;
+    padding: 12px;
+    color: #000000;
+    margin: 16px 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+.radio{
+    margin: 10px;
+}
+
+.radio2{
+    margin: 10px;
+}

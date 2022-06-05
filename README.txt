@@ -1,0 +1,1 @@
+Ejecutar con la extension Live Server de VSCode para que los estilos se muestren correctamente
